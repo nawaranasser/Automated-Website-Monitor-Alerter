@@ -1,0 +1,56 @@
+[2025-11-09 22:24:14] SLOW - Response Time: 0.68s
+[2025-11-09 22:24:17] Alert processed: 🚨 Website is SLOW
+[2025-11-09 22:34:47] SLOW - Response Time: 0.77s
+[2025-11-09 22:34:51] Alert processed: 🚨 Website is SLOW
+[2025-11-09 22:53:03] HEALTHY - Response Time: 0.63s
+[2025-11-09 22:53:03] No issues detected
+[2025-11-09 22:57:14] HEALTHY - Response Time: 0.69s
+[2025-11-09 22:57:14] No issues detected
+[2025-11-09 22:58:29] HEALTHY - Response Time: 0.63s
+[2025-11-09 22:58:29] No issues detected
+[2025-11-09 22:58:29] ---
+[2025-11-09 22:58:48] HEALTHY - Response Time: 0.69s
+[2025-11-09 22:58:48] No issues detected
+[2025-11-09 22:58:48] ---
+[2025-11-09 23:01:02] HEALTHY - Response Time: 0.60s
+[2025-11-09 23:01:02] No issues detected
+[2025-11-09 23:01:02] ---
+[2025-11-09 23:02:01] UNREACHABLE - Error: HTTPSConnectionPool(host='www.gogle.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gogle.com'. (_ssl.c:1010)")))
+[2025-11-09 23:02:03] Alert processed: 🚨 Website is UNREACHABLE
+[2025-11-09 23:02:03] ---
+[2025-11-09 23:03:02] HEALTHY - Response Time: 0.73s
+[2025-11-09 23:03:02] No issues detected
+[2025-11-09 23:03:02] ---
+[2025-11-09 23:04:02] HEALTHY - Response Time: 0.75s
+[2025-11-09 23:04:02] No issues detected
+[2025-11-09 23:04:02] ---
+[2025-11-09 23:05:02] HEALTHY - Response Time: 0.65s
+[2025-11-09 23:05:02] No issues detected
+[2025-11-09 23:05:02] ---
+[2025-11-09 23:06:02] HEALTHY - Response Time: 0.70s
+[2025-11-09 23:06:02] No issues detected
+[2025-11-09 23:06:02] ---
+[2025-11-09 23:07:02] HEALTHY - Response Time: 0.70s
+[2025-11-09 23:07:02] No issues detected
+[2025-11-09 23:07:02] ---
+[2025-11-09 23:08:01] HEALTHY - Response Time: 0.68s
+[2025-11-09 23:08:01] No issues detected
+[2025-11-09 23:08:01] ---
+[2025-11-09 23:09:01] HEALTHY - Response Time: 0.68s
+[2025-11-09 23:09:01] No issues detected
+[2025-11-09 23:09:01] ---
+[2025-11-09 23:10:02] HEALTHY - Response Time: 0.69s
+[2025-11-09 23:10:02] No issues detected
+[2025-11-09 23:10:02] ---
+[2025-11-09 23:11:02] HEALTHY - Response Time: 0.70s
+[2025-11-09 23:11:02] No issues detected
+[2025-11-09 23:11:02] ---
+[2025-11-09 23:12:02] HEALTHY - Response Time: 0.62s
+[2025-11-09 23:12:02] No issues detected
+[2025-11-09 23:12:02] ---
+[2025-11-09 23:13:02] HEALTHY - Response Time: 0.68s
+[2025-11-09 23:13:02] No issues detected
+[2025-11-09 23:13:02] ---
+[2025-11-09 23:14:02] HEALTHY - Response Time: 0.73s
+[2025-11-09 23:14:02] No issues detected
+[2025-11-09 23:14:02] ---
