@@ -18,4 +18,8 @@ A DevOps project that automatically monitors website health and sends email aler
 ## Setup
 1. Configure Gmail app password in `config.py`
 2. Set monitoring parameters
-3. Add cron job: `*/5 * * * * cd /path/to/project && /path/to/venv/bin/python monitor.py`
+3. Add cron job:
+   
+       crontab -e
+       */5 * * * * cd /path/to/project && /path/to/venv/bin/python monitor.py
+     
